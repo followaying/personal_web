@@ -1,0 +1,5 @@
+/project-folder
+├── index.html         (Main Page)
+├── photography.html   (Photography Page)
+├── ministry.html      (Ministry Page)
+└── other-assets (optional)
